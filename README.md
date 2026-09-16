@@ -3,6 +3,9 @@
 Repositorio del Parcial 1 de Sistemas Operativos.
 
 Equipo:
+- Miguel Angel Montoya Areiza
+- Samuel Alarcon Giraldo
+- Manuel Antonio Arenas Lara
 
 Shell base de: https://github.com/evalenciEAFIT/SO2026B/tree/main
 
