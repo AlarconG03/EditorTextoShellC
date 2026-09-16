@@ -1,6 +1,10 @@
 # SO2026B — Shell educativo y editor de texto POSIX
 
-Repositorio del proyecto de Sistemas Operativos de EAFIT.
+Repositorio del Parcial 1 de Sistemas Operativos.
+
+Equipo:
+
+Shell base de: https://github.com/evalenciEAFIT/SO2026B/tree/main
 
 ## Subproyectos
 
